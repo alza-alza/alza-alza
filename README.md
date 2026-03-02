@@ -7,4 +7,3 @@
 - 📫 To reach me, just make a pull request. ***FOR IMMEDIATE NEEDS ONLY, USE:*** alzaazla@proton.me
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I developed a really cool node package and then lost all my code when my OS corrupted.
--->
