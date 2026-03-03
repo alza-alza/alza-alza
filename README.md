@@ -1,4 +1,4 @@
-## Hello/Привет/Дратути)0) ;)
+## Hello/Привет/Bonjour ;)
 - 🔭 I’m currently working on ***Zuitcase!***
 - 🌱 I’m currently relearning Node for ***Zuitcase!***
 - 👯 I’m looking to collaborate on any project you can offer ;)
